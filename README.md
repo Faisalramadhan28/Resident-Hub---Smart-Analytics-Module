@@ -26,12 +26,12 @@ Menampilkan perkiraan/prediksi tagihan bulan berikutnya berdasarkan data billing
 6.	Keluar
 Mengakhiri program dan keluar dari aplikasi.
 
-main.py
+- main.py
 Berfungsi sebagai program utama dari mini aplikasi Resident Hub  dan menjadi antarmuka admin/pengguna berbasis Command Line Interface (CLI). File ini menampilkan menu, menerima input, mengontrol alur program dan memanggil fungsi fungsi analisis pada file analytics.py sesuai pilihan menu.
 
-analytics.py
+- analytics.py
 Berfungsi sebagai tempat pengolahan dan analisis data. Didalamnya terdapat beberapa fungsi untuk menghitung total tagihan, rata-rata tagihan, mengurutkan data berdasarkan jumlah tagihan, mengelola history billing berdasarkan bulan untuk melakukan prediksi tagihan  bulan berikutnya. 
 
-data.py
+- data.py
 Berfungsi sebagai file penyedia data serta menyimpan kumpulan data billing. Seluruh proses analisis dalam aplikasi menggunakan data dari file data.py.
 
