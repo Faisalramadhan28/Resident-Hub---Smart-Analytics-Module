@@ -35,3 +35,40 @@ Berfungsi sebagai tempat pengolahan dan analisis data. Didalamnya terdapat beber
 - data.py
 Berfungsi sebagai file penyedia data serta menyimpan kumpulan data billing. Seluruh proses analisis dalam aplikasi menggunakan data dari file data.py.
 
+Output :
+
+<img width="496" height="239" alt="image" src="https://github.com/user-attachments/assets/abbaabc9-b8b2-4d03-8923-13b2a269045e" />
+
+ 
+1.	Tampilkan Data Billing
+
+<img width="420" height="417" alt="image" src="https://github.com/user-attachments/assets/f23d7b84-c7f4-4940-88e1-7b0dd6bfe212" />
+
+ 
+2.	Total Tagihan Resident
+
+ <img width="524" height="332" alt="image" src="https://github.com/user-attachments/assets/7111af5a-0431-42e1-9c23-81d53da1c2da" />
+
+
+3.	Rata-rata Tagihan Resident
+
+ <img width="521" height="327" alt="image" src="https://github.com/user-attachments/assets/58033eea-9a28-46a3-9530-e818c5ec37e6" />
+
+
+4.	Urutkan Tagihan Terbesar
+
+<img width="522" height="518" alt="image" src="https://github.com/user-attachments/assets/8a3d9d5f-449d-431e-b62c-f513d198e350" />
+
+ 
+5.	Prediksi Tagihan Bulan Depan
+
+<img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/c4883e45-80a7-4896-b01a-0d8ad9f38d7b" />
+ 
+
+0.	Keluar
+
+ <img width="608" height="336" alt="image" src="https://github.com/user-attachments/assets/ae6c1298-e920-4cdf-995f-e3981acfce3d" />
+
+
+
+
